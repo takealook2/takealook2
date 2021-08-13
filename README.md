@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+_I am **noob** student developer🌱_
 <!--
 **takealook2/takealook2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
