@@ -1,7 +1,7 @@
 
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&fontSize=90)
   <br>
   ### Hey, I'm Seoha!👋🏻
   My main goal is to go into ***Game Development*** as ***Game Programmar***<br>
@@ -33,6 +33,6 @@
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@user-cu9zw5fs9e/featured)
   <br>
   <br>
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&fontSize=90)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=90)
 </div>
   
