@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&fontSize=90)
   <br>
   ### Hey, I'm Seoha!👋🏻
-  My main goal is to go into ***Game Development*** as ***Game Programmar***<br>
+  My main goal is to go into ***Game Development*** as ***Client Engineer***<br>
   I'm studying a dual degree in ***IT Media Engineering*** and ***Computer Science***<br>
   Undergraduate of 🌺***Duksung Women's University***🌺
   <br>
